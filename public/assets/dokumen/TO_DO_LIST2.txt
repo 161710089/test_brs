@@ -1,0 +1,22 @@
+1. Validasi dan caption utkm halaman pengajuan
+2. SSL
+3. Bagaimana web mudah di akses oleh semua kalangan
+4. Tambahkan Testimoni, kritik dan saran dari customer, after sale ucapan terima kasih dari perusahaan
+5. SOP setting jam online livechat 24 jam
+6. 
+
+Live chat SOP dan knowledge produk
+Cara mengajukan kredit di permudah
+Data master wilayah kab hingga kode pos seperti ngisi E-KTP
+kata ajukan di ganti pengajuan
+Nasabah sekali pengajuan, setelah validasi langsung mengarah ke WA
+jam transaksi belum sesuai
+catat transaksi paling baru
+password diberikan icon mata
+seluruhnya diganti menjadi bahasa indonesia
+dibatasi 1 nasabah hanya bisa 1 x dalam sehari
+beri tanda warna merah jika tidak valid
+Peangajuan yang belum dibaca di BOLD seperti sistem di email
+kalkulator deposito
+clearing data
+Notifikasi cuti, alihkan ke AO yang sdg aktif

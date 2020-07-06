@@ -1,0 +1,135 @@
+.select2-container--default .select2-selection--single {
+    background-color: #fff !important;
+    border: 1px solid #e4e7ea !important;
+    border-radius: 0px !important;
+    height: 35px !important;
+}
+
+.select2-container--default .select2-selection--multiple {
+    background-color: #fff !important;
+    border: 1px solid #e4e7ea !important;
+    border-radius: 0px !important;
+    padding: 3px;
+    /* height: 35px !important; */
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 36px;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #fac333;
+    color: white;
+}
+
+.select2-dropdown {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    left: -100000px;
+    width: 100%;
+    z-index: 1051;
+}
+
+.select2-container--default .select2-search--dropdown .select2-search__field {
+    border: 1px solid #e4e7ea;
+}
+
+.js-example-data-ajax{
+    width: 100%;
+  }
+  
+  .select2-results__options {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+  }
+  
+  .select2-result-repository {
+      padding-top: 4px;
+      padding-bottom: 3px;
+  }
+  
+  .select2-result-repository__meta {
+      margin-left: 70px;
+  }
+  
+  .select2-results__option[aria-selected] {
+      cursor: pointer;
+  }
+  
+  .select2-result-repository__avatar {
+      float: left;
+      width: 60px;
+      margin-right: 10px;
+  }
+  
+  .select2-result-repository__avatar img {
+      width: 100%;
+      height: auto;
+      border-radius: 2px;
+  }
+
+
+.select2-result-repository {
+    padding-top: 4px;
+    padding-bottom: 3px
+}
+
+.select2-result-repository__avatar {
+    float: left;
+    width: 60px;
+    margin-right: 10px
+}
+
+.select2-result-repository__avatar img {
+    width: 100%;
+    height: auto;
+    border-radius: 2px
+}
+
+.select2-result-repository__meta {
+    margin-left: 70px
+}
+
+.select2-result-repository__title {
+    color: black;
+    font-weight: 700;
+    word-wrap: break-word;
+    line-height: 1.1;
+    margin-bottom: 4px
+}
+
+.select2-result-repository__forks,
+.select2-result-repository__stargazers {
+    margin-right: 1em
+}
+
+.select2-result-repository__forks,
+.select2-result-repository__stargazers,
+.select2-result-repository__watchers {
+    display: inline-block;
+    color: #aaa;
+    font-size: 11px
+}
+
+.select2-result-repository__description {
+    font-size: 13px;
+    color: #777;
+    margin-top: 4px
+}
+
+.select2-results__option--highlighted .select2-result-repository__title {
+    color: white
+}
+
+.select2-results__option--highlighted .select2-result-repository__forks,
+.select2-results__option--highlighted .select2-result-repository__stargazers,
+.select2-results__option--highlighted .select2-result-repository__description,
+.select2-results__option--highlighted .select2-result-repository__watchers {
+    color: #c6dcef
+}

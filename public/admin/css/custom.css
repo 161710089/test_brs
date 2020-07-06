@@ -1,0 +1,32 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+body h1, h2, h3, h4, h5, h6{
+  font-family: 'Roboto', sans-serif;
+}
+tbody {
+  color: #000000;
+  font-weight: 300;
+}
+.navbar-header{
+  background: #fff !important;
+  border-bottom: 1px #ddd solid;
+}
+.profile-pic{
+  color: #000 !important;
+}
+.redBackground{
+  background: red !important;
+  color: white;
+}
+.greenBackground{
+  background: #35a535 !important;
+  color: white;
+}
+.yellowBackground{
+  background: #bdba21c5 !important;
+  color: white;
+}
+
+.postion-fixed  { overflow-y: auto; z-index:1001}
+.postion-fixed  { position: sticky; top: 60px; bottom:30px;}
